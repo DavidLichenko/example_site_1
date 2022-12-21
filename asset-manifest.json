@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dacea02c.css",
+    "main.js": "/static/js/main.c3a04f4e.js",
+    "static/media/blur-backgrond.png": "/static/media/blur-backgrond.63686101151084477375.png",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/crt1.svg": "/static/media/crt1.ae95721321dac6c846c99967be94073e.svg",
+    "static/media/crt2.svg": "/static/media/crt2.9e4ba876704bfb45cd8e44e1732d1b5e.svg",
+    "static/media/action_cart.svg": "/static/media/action_cart.0112237676c060677331.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/crt0.png": "/static/media/crt0.5aab9bb04b779af6490c.png",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/ProfImage1.svg": "/static/media/ProfImage1.82c485ab89ed38fc491985626b5c09a2.svg",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/logo.svg": "/static/media/logo.f80b1c89859f1d0ed2f68dffddc8e3ad.svg",
+    "static/media/binance.svg": "/static/media/binance.7403efac5cd48557174c35a19c228a7a.svg",
+    "static/media/bitmex.svg": "/static/media/bitmex.f0a1b7553d8d1c6c779f78b2c19f05b5.svg",
+    "static/media/coinbase.svg": "/static/media/coinbase.7ddee006e76dfb083649da96077f77c2.svg",
+    "static/media/blockchain.svg": "/static/media/blockchain.0bbbdc65bbf75f5620c20f66f0a17caf.svg",
+    "static/media/right_arrow.svg": "/static/media/right_arrow.88f35c1b39a618d9ef2a.svg",
+    "index.html": "/index.html",
+    "main.dacea02c.css.map": "/static/css/main.dacea02c.css.map",
+    "main.c3a04f4e.js.map": "/static/js/main.c3a04f4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dacea02c.css",
+    "static/js/main.c3a04f4e.js"
+  ]
+}
