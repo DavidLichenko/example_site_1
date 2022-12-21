@@ -1,0 +1,74 @@
+$mainFontColor: #FFCE4E;
+$secondFontColor: #F5FBF2;
+$backgroundColor: #16091B;
+li {
+  a {
+    text-decoration: none;
+  }
+  list-style:none;
+}
+.header {
+  margin: 0 auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  .logo img {
+    width: 66px;
+    height: 66px;
+  }
+  .menu_wrapper {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    ul {
+      display: flex;
+      flex-direction: row;
+      li {
+        a {
+          color: $secondFontColor;
+          &:hover {
+            color: $mainFontColor;
+          }
+        }
+        margin-right: 64px;
+      }
+    }
+  }
+  .active {
+    color: $mainFontColor!important;
+    border-bottom: solid 1px $mainFontColor;
+  }
+  .auth_buttons {
+    a {
+      color: $mainFontColor;
+      text-decoration: none;
+    }
+    button {
+      background-color: #E9D7A71A;
+      border: 1px solid $mainFontColor;
+      color: $mainFontColor;
+      font-family: work-sans, sans-serif;
+      font-size: 18px;
+      line-height: 21px;
+      outline: none;
+      height: 64px;
+      width: 195px;
+      transition: all 100ms linear;
+      &:hover {
+        background-color:$mainFontColor;
+        color: $backgroundColor;
+        cursor: pointer;
+        a {
+          color: $backgroundColor;
+        }
+      }
+    }
+  }
+  .mobile__menu {
+    color: $secondFontColor;
+    font-size: 1.3rem;
+    display: none;
+  }
+}
